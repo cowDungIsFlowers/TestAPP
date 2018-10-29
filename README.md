@@ -1,2 +1,4 @@
 # TestAPP
-用于测试等待，哈哈
+git clone https://github.com/cowDungIsFlowers/TestAPP.git
+npm install
+npm run start
